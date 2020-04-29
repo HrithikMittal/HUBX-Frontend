@@ -1,6 +1,4 @@
-## Source code for the Udemy Course
-
-### HUBX
+# HUBX
 
 ### To run this project, do the following:
 

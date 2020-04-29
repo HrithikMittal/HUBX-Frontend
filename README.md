@@ -1,6 +1,6 @@
 ## Source code for the Udemy Course
 
-### [React Node Social Network from Scratch to Deployment ](https://www.udemy.com/node-react/?couponCode=GITHUB)
+### HUBX
 
 ### To run this project, do the following:
 
@@ -8,7 +8,6 @@
 
 ```
 REACT_APP_API_URL=http://localhost:8080/api
-REACT_APP_GOOGLE_CLIENT_ID=xxxxxx.apps.googleusercontent.com
 ```
 
 ##### Then run the following commands to start up the app
